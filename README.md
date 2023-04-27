@@ -1,3 +1,17 @@
+<div align="center">
+<a href="https://www.linkedin.com/in/kasim-ridwan/" target="_blank">LinkedIn</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="mailto://hello@kasimridwan.com" target="_blank">Email</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://kasimridwan.com" target="_blank">Website</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://twitter.com/oluwalosheyii" target="_blank">Twitter</a>
+<br />
+</div>
+
+---
+
+
 ### Hi there 👋
 
 
