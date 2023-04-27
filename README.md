@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+## Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Realtime Logging in Laravel](https://dev.to/dotmarn/how-to-send-application-logs-to-telegram-in-laravel-1l12)
+- [Ionic Camera Preview](https://dev.to/dotmarn/how-to-use-camera-preview-plugin-in-ionic-with-capacitor-v3-2plk)
+- [Setup TailwindCSS in Laravel](https://dev.to/dotmarn/setting-up-tailwindcss-v3-with-laravel-v881-later-3o2)
+- [Deeplinking in Ionic with Capacitor](https://dev.to/dotmarn/ionic-deeplink-universal-link-with-capacitor-2en1)
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **dotmarn/dotmarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
