@@ -3,6 +3,7 @@
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Useful Ionic + Capacitor Commands](https://dev.to/dotmarn/useful-ionic-capacitor-commands-4di)
 - [Realtime logging in a Laravel application using Slack](https://dev.to/dotmarn/realtime-logging-in-laravel-using-slack-46o9)
 - [Realtime Logging in Laravel using Telegram](https://dev.to/dotmarn/how-to-send-application-logs-to-telegram-in-laravel-1l12)
 - [Ionic Camera Preview](https://dev.to/dotmarn/how-to-use-camera-preview-plugin-in-ionic-with-capacitor-v3-2plk)
