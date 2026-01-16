@@ -12,7 +12,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌍 Open Source Contributions (External)
-- 🧠 Focus areas: Laravel, PHP, DevOps, Security
+- 🧠 Focus areas: Laravel, PHP, Livewire, Tailwind, AlpineJS
 - 🔗 [View all external merged PRs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Adotmarn++-user%3Adotmarn++-user%3Abigdevlarry+-user%3Aitsyncsynergy&type=pullrequests)
 
 
@@ -20,7 +20,7 @@
 
 <p align = "center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://kasimridwan.com)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://ridwan-kasim.dev)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/oluwalosheyii) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/kasim-ridwan/)
 </p>
