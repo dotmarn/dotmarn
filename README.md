@@ -13,7 +13,7 @@
 
 ### 🌍 Open Source Contributions (External)
 - 🧠 Focus areas: Laravel, PHP, DevOps, Security
-- 🔗 [View all external merged PRs]([https://github.com/search?q=is%3Apr+is%3Amerged+author%3Adotmarn+-user%3Adotmarn&type=pullrequests](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Adotmarn++-user%3Adotmarn++-user%3Abigdevlarry+-user%3Aitsyncsynergy&type=pullrequests))
+- 🔗 [View all external merged PRs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Adotmarn++-user%3Adotmarn++-user%3Abigdevlarry+-user%3Aitsyncsynergy&type=pullrequests)
 
 
 ### Connect with me:
