@@ -15,6 +15,38 @@
 - 🧠 Focus areas: Laravel, PHP, Livewire, Tailwind, AlpineJS
 - 🔗 [View all external merged PRs](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Adotmarn++-user%3Adotmarn++-user%3Abigdevlarry+-user%3Aitsyncsynergy&type=pullrequests)
 
+### 🏢 Organizations I’ve Contributed To
+<p>
+  <a href="https://github.com/symfony" style="text-decoration: none;">
+    <img src="https://avatars.githubusercontent.com/u/143937?v=4"
+         alt="Symfony"
+         height="16"
+         style="vertical-align: middle;" />
+    <span style="margin-left: 6px;">Symfony</span>
+  </a>
+</p>
+
+<p>
+  <a href="https://laravel.io" style="text-decoration: none;">
+    <img src="https://laravel.io/images/favicons/favicon-32x32.png"
+         alt="Laravel.io"
+         height="16"
+         style="vertical-align: middle;" />
+    <span style="margin-left: 6px;">Laravel.io</span>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/laravel" style="text-decoration: none;">
+    <img src="https://avatars.githubusercontent.com/u/958072?v=4"
+         alt="Laravel"
+         height="16"
+         style="vertical-align: middle;" />
+    <span style="margin-left: 6px;">Laravel</span>
+  </a>
+</p>
+
+
 
 ### Connect with me:
 
