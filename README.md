@@ -1,4 +1,4 @@
-### Hi there I'm [Ridwan Kasim](https://kasimridwan.com)👋
+### Hi there I'm [Ridwan Kasim](https://ridwan-kasim.dev)👋
 
 
 ### Latest Blog posts
@@ -10,6 +10,11 @@
 - [Setup TailwindCSS in Laravel](https://dev.to/dotmarn/setting-up-tailwindcss-v3-with-laravel-v881-later-3o2)
 - [Deeplinking in Ionic with Capacitor](https://dev.to/dotmarn/ionic-deeplink-universal-link-with-capacitor-2en1)
 <!-- BLOG-POST-LIST:END -->
+
+### 🌍 Open Source Contributions (External)
+- 🧠 Focus areas: Laravel, PHP, DevOps, Security
+- 🔗 [View all external merged PRs]([https://github.com/search?q=is%3Apr+is%3Amerged+author%3Adotmarn+-user%3Adotmarn&type=pullrequests](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Adotmarn++-user%3Adotmarn++-user%3Abigdevlarry+-user%3Aitsyncsynergy&type=pullrequests))
+
 
 ### Connect with me:
 
